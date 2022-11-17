@@ -1,4 +1,4 @@
-from socket import *
+from socket import socket
 
 
 # 确定服务器的地址

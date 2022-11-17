@@ -1,4 +1,4 @@
-from socket import *
+from socket import socket
 
 # 声明服务器IP, 端口
 ADDR = ("0.0.0.0", 8888)
